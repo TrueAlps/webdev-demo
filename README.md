@@ -1,2 +1,2 @@
-# webdev-demo
+# webdev
 demo/test
